@@ -1,0 +1,17 @@
+total 52
+drwxr-xr-x 1 suareza1992 suareza1992 402 Oct 24 11:23 .
+drwxr-xr-x 1 suareza1992 suareza1992 538 Oct 23 13:01 ..
+-rwxr--r-- 1 suareza1992 suareza1992  32 Oct 23 13:03 0-hello_world
+-rwxr--r-- 1 suareza1992 suareza1992  28 Oct 23 13:13 1-confused_smiley
+-rwxr--r-- 1 suareza1992 suareza1992  28 Oct 23 13:21 2-hellofile
+-rwxr--r-- 1 suareza1992 suareza1992  39 Oct 23 13:29 3-twofiles
+-rwxr--r-- 1 suareza1992 suareza1992  33 Oct 23 13:39 4-lastlines
+-rwxr--r-- 1 suareza1992 suareza1992  29 Oct 23 13:46 5-firstlines
+-rwxr--r-- 1 suareza1992 suareza1992  36 Oct 23 14:05 6-third_line
+-rwxr--r-- 1 suareza1992 suareza1992  91 Oct 23 14:54 7-file
+-rwxr--r-- 1 suareza1992 suareza1992  36 Oct 24 11:22 8-cwd_state
+-rw-r--r-- 1 suareza1992 suareza1992  38 Oct 23 14:35 \*\'Best
+-rw-r--r-- 1 suareza1992 suareza1992  14 Oct 23 14:45 \*\'Best School\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 suareza1992 suareza1992  12 Oct 23 14:37 \*\'BestSchool\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 suareza1992 suareza1992   0 Oct 24 11:23 ls_cwd_content
+-rw-r--r-- 1 suareza1992 suareza1992  50 Oct 23 13:02 README.md
